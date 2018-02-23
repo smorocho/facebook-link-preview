@@ -1,0 +1,27 @@
+{
+    "name": "smorocho/facebook-link-preview",
+    "description": "Facebook-Like Link Preview",
+    "type": "library",
+    "keywords": ["facebook","link","preview"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zero Day Media",
+            "email": "admin@zerodaymedia.com"
+        }
+    ],
+    "require": {
+    },
+	"autoload": {
+        "psr-4": {
+            "smorocho\\FacebookLinkPreview\\": "php/classes/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+    	    "url": "https://github.com/smorocho/facebook-link-preview"
+        }
+    ]
+}
+
