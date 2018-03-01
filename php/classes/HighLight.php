@@ -11,7 +11,7 @@
  * This class is only to hightlight the urls.
  * So, it has nothing bound directly to LinkPreview class
  */
- namespace baymedia\facebooklinkpreview;
+ namespace smorocho\facebooklinkpreview;
 
 include_once "Regex.php";
 

@@ -8,7 +8,7 @@
  */
 
 /** This class handles url analysis */
-namespace baymedia\facebooklinkpreview;
+namespace smorocho\facebooklinkpreview;
 
 class Url
 {

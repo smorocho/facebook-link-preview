@@ -8,7 +8,7 @@
  */
 
 /** Important php5-curl must be installed and enabled */
-namespace baymedia\facebooklinkpreview;
+namespace smorocho\facebooklinkpreview;
 
 include_once "Media.php";
 include_once "Regex.php";

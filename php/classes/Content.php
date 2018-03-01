@@ -8,7 +8,7 @@
  */
 
 /** This class handles the content analysis */
-namespace baymedia\facebooklinkpreview;
+namespace smorocho\facebooklinkpreview;
 
 include_once "Regex.php";
 include_once "FastImage.php";

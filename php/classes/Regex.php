@@ -7,7 +7,7 @@
  *
  * Version: 1.3.0
  */
- namespace baymedia\facebooklinkpreview;
+ namespace smorocho\facebooklinkpreview;
 class Regex
 {
 

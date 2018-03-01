@@ -8,7 +8,7 @@
  */
 
 /** This class sets the system configuration */
-namespace baymedia\facebooklinkpreview;
+namespace smorocho\facebooklinkpreview;
 
 class SetUp {
 

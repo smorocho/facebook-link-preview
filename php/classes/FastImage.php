@@ -9,7 +9,7 @@
  * MIT Licensed
  * @version 0.1
  */
-namespace baymedia\facebooklinkpreview;
+namespace smorocho\facebooklinkpreview;
 
 class FastImage
 {
